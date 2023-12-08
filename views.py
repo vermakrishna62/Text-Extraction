@@ -1,3 +1,4 @@
+# Functionality
 
 import pytesseract
 
